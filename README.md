@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mberguig
-- 👀 I’m interested in mobile / web apps, back-end development
-- 🌱 I’m currently learning react-native with Expo
+- 👀 I’m interested in mobile / web apps & back-end development
+- 🌱 I’m currently learning react-native with Expo & NestJS framework
 - 💞️ I’m looking to collaborate on maybe something soon...
 - 📫 How to reach me ...
 
